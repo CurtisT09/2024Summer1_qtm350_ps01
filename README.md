@@ -2,7 +2,7 @@
 
 ## Sahithi Gangaram:
 - **Project Title: Climate Guardian - Climate Change Mitigation**
-- **Project Description: This project focuses on monitoring and predicting climate changes using data from satellites, weather stations, and ocean buoys. It aims to create models to forecast extreme weather events and assess the impact of various mitigation strategies to combat climate change.**
+- **Project Description:** This project focuses on monitoring and predicting climate changes using data from satellites, weather stations, and ocean buoys. It aims to create models to forecast extreme weather events and assess the impact of various mitigation strategies to combat climate change.
 - **Objectives**
   1. **Data Collection:**
      - Gather real-time climate data from various sources including satellites, weather stations, and ocean buoys.
