@@ -49,6 +49,11 @@
 - **Contribution Details**
 - **Challenges Faced**
 
-## Member 3:
+## Simren Kochhar:
 - **Solutions and Overcoming Challenges**
 - **References and Resources**
+Hurricanes:
+1) NOAA keeps data on every major storm in the US from 1958 including information about the weather conditions and severity of the storm. This can be analyzed in order to identify any patterns leading to deadly hurricanes. The link is here: https://www.nhc.noaa.gov/data/
+2) NOAA also keeps data regarding the paths that tropical storms have taken from 1950-2020. This can be analyzed in conjunction with the dataset above in order to give more accurate early predictions of hurricane routes so residents have more time to evacuate. The link is here: https://sos.noaa.gov/catalog/datasets/hurricane-tracks-cumulative/
+Wildfires:
+Earthquakes:
