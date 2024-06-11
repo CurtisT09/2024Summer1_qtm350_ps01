@@ -44,8 +44,9 @@
       - Continuously improve data collection, analysis methods, and predictive models based on new research and technological advancements.
       - Solicit feedback from stakeholders and users to enhance the project's relevance and impact.
 
-## Member 2: 
+## Curtis Tseng
 - **Team Members**
+    - Sahithi Gangaram, Curtis Tseng, Simren Kochar
 - **Contribution Details**
 - **Challenges Faced**
 
