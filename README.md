@@ -73,7 +73,7 @@
   9. **Sustainability::**
       - Long-term planning and securing funding will ensure the project's sustainability, allowing it to continue providing valuable insights and recommendations.
       
-  9. **Data-Driven Decision Making:**
+  10. **Data-Driven Decision Making:**
       - The project will support evidence-based decision-making, reducing reliance on anecdotal or less reliable sources of information in climate policy.
     
 
