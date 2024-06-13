@@ -59,7 +59,7 @@ Earthquakes:
 1) The USGS contains informations about all significant earthquakes in the US and the world. This includes the location, magnitude, and time of the earthquake. This information will give the past history of earthquakes in the world. The link is here: https://www.usgs.gov/programs/earthquake-hazards/lists-maps-and-statistics
 2) Our World in Data contains the data of deaths from earthquakes in the world from 1500-2023. Combining this data with information regarding the severity of the earthquakes will be useful in predicting the human toll from earthquakes. The link is here: https://ourworldindata.org/grapher/earthquake-deaths
 3) USGS has a map of all fault lines in the US. This will be important to analyze in order to see where earthquakes could occur. The link is here:
-    https://www.usgs.gov/programs/earthquake-hazards/faults
+    https://www.usgs.gov/programs/earthquake-hazards/faults 
 
 - **Implications**
   1. **Enhanced Preparedness**
